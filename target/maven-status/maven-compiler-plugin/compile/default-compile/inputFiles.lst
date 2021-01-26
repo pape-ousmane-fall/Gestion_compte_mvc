@@ -1,0 +1,12 @@
+/home/akane/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/gestionCompte/src/main/java/sn/esmt/gestionCompte/controllers/ClientController.java
+/home/akane/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/gestionCompte/src/main/java/sn/esmt/gestionCompte/dao/ICompteDao.java
+/home/akane/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/gestionCompte/src/main/java/sn/esmt/gestionCompte/domaine/Compte.java
+/home/akane/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/gestionCompte/src/main/java/sn/esmt/gestionCompte/controllers/CompteController.java
+/home/akane/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/gestionCompte/src/main/java/sn/esmt/gestionCompte/domaine/Client.java
+/home/akane/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/gestionCompte/src/main/java/sn/esmt/gestionCompte/service/ClientServiceImpl.java
+/home/akane/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/gestionCompte/src/main/java/sn/esmt/gestionCompte/service/IClientService.java
+/home/akane/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/gestionCompte/src/main/java/sn/esmt/gestionCompte/service/CompteServiceImpl.java
+/home/akane/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/gestionCompte/src/main/java/sn/esmt/gestionCompte/controllers/HomeController.java
+/home/akane/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/gestionCompte/src/main/java/sn/esmt/gestionCompte/dao/IClientDao.java
+/home/akane/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/gestionCompte/src/main/java/sn/esmt/gestionCompte/service/ICompteService.java
+/home/akane/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/gestionCompte/src/main/java/sn/esmt/gestionCompte/service/ClientServiceImpl2.java
